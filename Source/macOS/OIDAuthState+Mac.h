@@ -16,7 +16,7 @@
         limitations under the License.
  */
 
-#import "OIDAuthState.h"
+#import <AppAuth/OIDAuthState.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -20,9 +20,9 @@
 
 // These files only declare string constants useful for constructing a @c OIDAuthorizationRequest,
 // so they are imported here for convenience.
-#import "OIDExternalUserAgentRequest.h"
-#import "OIDResponseTypes.h"
-#import "OIDScopes.h"
+#import <AppAuth/OIDExternalUserAgentRequest.h>
+#import <AppAuth/OIDResponseTypes.h>
+#import <AppAuth/OIDScopes.h>
 
 @class OIDServiceConfiguration;
 

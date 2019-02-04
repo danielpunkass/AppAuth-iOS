@@ -20,7 +20,7 @@
 
 // This file only declares string constants useful for constructing a @c OIDTokenRequest, so it is
 // imported here for convenience.
-#import "OIDGrantTypes.h"
+#import <AppAuth/OIDGrantTypes.h>
 
 @class OIDAuthorizationResponse;
 @class OIDServiceConfiguration;

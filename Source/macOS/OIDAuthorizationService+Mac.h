@@ -16,7 +16,7 @@
         limitations under the License.
  */
 
-#import "OIDAuthorizationService.h"
+#import <AppAuth/OIDAuthorizationService.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

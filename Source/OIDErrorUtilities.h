@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "OIDError.h"
+#import <AppAuth/OIDError.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
