@@ -1496,7 +1496,7 @@
 		340E73741C5D819B0076B1F6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1010;
+				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = "OpenID Foundation";
 				TargetAttributes = {
 					340DAE4D1D58216A00EC285B = {
@@ -1560,6 +1560,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 340E73731C5D819B0076B1F6;
