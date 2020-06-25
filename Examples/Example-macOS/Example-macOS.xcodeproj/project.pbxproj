@@ -174,7 +174,7 @@
 		F6016E681D2AC11E003497D7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1130;
+				LastUpgradeCheck = 1200;
 				ORGANIZATIONNAME = Google;
 				TargetAttributes = {
 					341AA4BF1E7F2E5000FCA5C6 = {

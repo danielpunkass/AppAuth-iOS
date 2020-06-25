@@ -104,7 +104,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
-				LastUpgradeCheck = 1130;
+				LastUpgradeCheck = 1200;
 				ORGANIZATIONNAME = "Google Inc.";
 				TargetAttributes = {
 					9F265B961F9AC5D600DC14BF = {
